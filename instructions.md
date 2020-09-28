@@ -1,4 +1,5 @@
-# Tasks for the Public Policy Research and Outreach (PPRO) track
+# Instructions for searching and recording policy analyses into the policy analysis registry
+
 
 ## Main Task  (suggested level of effort in hours)
 
@@ -94,4 +95,5 @@ source] in [specific city/state/country]"
 ## One-person tasks
 
 - Investigate how to access the main page of NYT and WSJ of previous dates.  
-- Build a qualtrics form where readers can record their reports.    
+- Build a qualtrics form where readers can record their reports.   
+- Review this website: https://libguides.gwu.edu/pubpolicydatabases 
