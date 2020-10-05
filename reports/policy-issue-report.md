@@ -48,18 +48,18 @@ Biden will enact a law prohibiting landlords from discriminating against renters
 -Biden will invest $640 billion over ten years by raising taxes on corporations and large financial institutions. Specifically, approximately $300 billion of the housing plan is devoted to new construction and is encompassed in the $3.1 trillion infrastructure plan. The remaining portion is paid by instituting a financial fee on certain liabilities of firms with over $50 billion in assets. 
 
 ### Presented by opposing group
-**Evidence of opponents citing this report:** [URL/Email]
-There is no citation for opposing group 
-**Title of report:**
-It’s not the Source, It’s the String 
-**Authoring Organization:**
-National Apartment Association
-**Authors (if any):**
-Jodie Applewhite
-**URL of report:**
-https://www.naahq.org/news-publications/units/july-2019/article/its-not-source-its-strings
-#### Main Benefits
-- The Project-Based Rental Assistance programs provide homes for nearly 1.3 million families and elderly households in privately owned housing.
+**Evidence of opponents citing this report:** [URL/Email]. 
+There is no citation for opposing group   
+**Title of report:**. 
+It’s not the Source, It’s the String   
+**Authoring Organization:**. 
+National Apartment Association. 
+**Authors (if any):**. 
+Jodie Applewhite  
+**URL of report:**. 
+https://www.naahq.org/news-publications/units/july-2019/article/its-not-source-its-strings. 
+#### Main Benefits. 
+- The Project-Based Rental Assistance programs provide homes for nearly 1.3 million families and elderly households in privately owned housing.  
 
 #### Main Costs
 -HUD estimates that the United States has 10 to 12 million total [rental housing providers] and only a fraction of them participate in the HCV program. Between 2009 and 2016, the number of unique [owners and operators] participating in the HCV program declined from 775,000 to 695,000. 
