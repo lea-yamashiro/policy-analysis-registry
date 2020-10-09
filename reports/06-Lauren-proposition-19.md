@@ -33,7 +33,7 @@ URL with opposing evidence of supporting: [Vote No on Prop 19](https://www.latim
 **URL of report:** https://lao.ca.gov/ballot/2019/190479.pdf
 
 #### Main Benefits
-- Schools and local governments would receive an increase in revenue by "a couple hundred million dollars per year" for the first few years, overtime increasing to about billion dollars per year.
+- Schools and local governments would receive an increase in revenue by "a couple hundred million dollars per year" for the first few years, overtime increasing to about billion dollars per year due to 60,000 to 80,000 estimated excluded households due to inheritance property tax laws.
 - The number of movers could increase by tens of thousands increasing property tax revenue due to higher home prices and increased demand for home building.
 
 
