@@ -1,7 +1,7 @@
 ## Proposition 19 : Home Protection for Seniors, Severely Disabled, Families, and Victims of Wildfire or Natural Disaster Act
 
 
-Proposition 19 would increase allowed property tax transfers from one to three to anywhere in the state for eligible homeowners (55+, disabled, or those affected by a wildfire), allow reassessment of property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund with additional taxes.
+Proposition 19 would allow for an increase in property tax transfers from one to three anywhere in the state for eligible homeowners (55+, disabled, or those affected by a wildfire), reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund.
 
 
 **Main category**: Economy & Taxes
@@ -33,9 +33,8 @@ URL with opposing evidence of supporting: [Vote No on Prop 19](https://www.latim
 **URL of report:** https://lao.ca.gov/ballot/2019/190479.pdf
 
 #### Main Benefits
-- 60,000 to 80,000 inherited households are currently excluded from reassessment, resulting in schools and local governments receiving "a couple hundred million dollars per year" for the first few years, overtime increasing to about billion dollars per year.
-- The number of movers could increase by tens of thousands providing for increases in home prices and home building
-would lead to more property tax revenue.
+- Schools and local governments would receive an increase in revenue by "a couple hundred million dollars per year" for the first few years, overtime increasing to about billion dollars per year.
+- The number of movers could increase by tens of thousands increasing property tax revenue due to higher home prices and increased demand for home building.
 
 
 *NOTE*: the addition of funding for fire protection was added to the proposition after this report was made.
@@ -48,7 +47,7 @@ would lead to more property tax revenue.
 ### Presented by opposing group
 **Evidence of opponents citing this report:** https://www.hjta.org/california-commentary/explaining-the-confusing-proposition-19-to-californians/
 
-**Title of report:** CHANGES Changes Certain Property Tax Rules. Legislative Constitutional Amendment
+**Title of report:** Changes Certain Property Tax Rules. Legislative Constitutional Amendment
 
 **Authoring Organization:** Legislative Analyst Office
 
@@ -56,13 +55,13 @@ would lead to more property tax revenue.
 
 #### Main Benefits
 - Local governments (including schools) could gain tens of millions of dollars per year with revenue gains up to a few hundred million dollars per year in future years due to inherited property tax reassessments.
-- More people will buy and sell homes, causing taxes on sale of homes to increase by tens of millions of dollars per year.
+
 
 #### Main Costs
 - Tens of thousands of families face higher tax higher property tax per year resulting in hundreds of millions of dollars in additional taxes.
 - Tens of millions of additional dollars per year for counties to pay for staff and computer technology to carry out this proposition.  
 
-*NOTE*: Believe wildfires to be added as a ploy to gain more votes and distract from increased property tax.
+*NOTE*: HITJA believes wildfires fund to be added as a ploy to gain more votes and distract from increased property tax.
 
 <!-- Later
 ## Perceptions of credibility  
