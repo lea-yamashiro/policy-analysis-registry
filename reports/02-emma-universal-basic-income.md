@@ -24,7 +24,6 @@ URL with opposing evidence of supporting:
 - https://www.latimes.com/local/california/la-pol-ca-basic-income-stockton-reparations-20190415-story.html
 
 ## Policy estimates
-Identify and read the main policy analyses provided by each group
 
 ### Presented by supporting group
 **Evidence of supporters citing this report:** A central part of Yang's 2020 presidential campaign was the "Freedom Dividend," a $1000 monthly UBI payment. https://www.yang2020.com/what-is-freedom-dividend-faq/  
@@ -59,13 +58,17 @@ The Roosevelt Study considers 3 scenarios of a UBI policy that is fully deficit-
 **URL of report:** https://budgetmodel.wharton.upenn.edu/issues/2018/3/29/options-for-universal-basic-income-dynamic-modeling
 
 #### Main Benefits
-The Penn-Wharton Budget Model also assumes the UBI policy is deficit-funded.  
+The Penn-Wharton Budget Model also assumes the UBI policy is deficit-funded.  For a $6000 annual allowance:  
 - No specific quantitative benefits specified
 
 #### Main Costs
 - If plan is implemented in 2018, there is an expected reduction GDP of 6.1% by 2027, and 9.3% by 2032.
 - Increase federal debt by more than 63.5% by 2027 and 81.1% by 2032
 
+## Followups  
+
+- Contacted supporting group (UBI center) and opposing group (California Labor Federation, Employment Training Panel)
+- Received response from UBI center
 
 <!-- Later
 ## Perceptions of credibility  
