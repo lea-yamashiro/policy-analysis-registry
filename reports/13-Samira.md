@@ -43,13 +43,13 @@ https://joebiden.com/housing/#
 2)Joint Center for Housing Studies of Harvard University
 
 **Authors (if any):**
-1) 
+1)
 ANDREW AURAND,
 DAN EMMANUEL,
 ELLEN ERRICO
 DINA PINSKY
 DIANE YENTEL
-2) 
+2)
 N/A
 
 **URL of report:**
@@ -62,7 +62,7 @@ N/A
 - Seventy-one percent (7.8 million) of the nation’s 11 million extremely low-income renter households are severely housing cost-burdened, spending more than half of their incomes on rent and utilities. Section 8 benefits can alleviate this pressure on low-income households.  
 
 #### Main Costs
--Biden will invest $640 billion over ten years by raising taxes on corporations and large financial institutions. Specifically, approximately $300 billion of the housing plan is devoted to new construction and is encompassed in the $3.1 trillion infrastructure plan. The remaining portion is paid by instituting a financial fee on certain liabilities of firms with over $50 billion in assets. 
+-Biden will invest $640 billion over ten years by raising taxes on corporations and large financial institutions. Specifically, approximately $300 billion of the housing plan is devoted to new construction and is encompassed in the $3.1 trillion infrastructure plan. The remaining portion is paid by instituting a financial fee on certain liabilities of firms with over $50 billion in assets.
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:** [URL/Email]
@@ -70,7 +70,7 @@ N/A
 
 **Title of report:**
 1)The benefits and costs of the Section 8 housing subsidy program: A framework and estimates of first-year effects
-2)It’s not the Source, It’s the String 
+2)It’s not the Source, It’s the String
 
 **Authoring Organization:**
 1)University of Wisconsin
@@ -86,12 +86,12 @@ N/A
 - The Project-Based Rental Assistance programs provide homes for nearly 1.3 million families and elderly households in privately owned housing.
 
 #### Main Costs
- 
+
 
 - On average, there is a 10% reduction in earnings for people in the years immediately after receiving the vouchers.
 - Section 8 voucher recipients often relocate when they first receive a voucher. Although this relocation may be beneficial in the long-term, it likely disrupts social and labor market networks in the short-term.
 
--HUD estimates that the United States has 10 to 12 million total [rental housing providers] and only a fraction of them participate in the HCV program. Between 2009 and 2016, the number of unique [owners and operators] participating in the HCV program declined from 775,000 to 695,000. 
+-HUD estimates that the United States has 10 to 12 million total [rental housing providers] and only a fraction of them participate in the HCV program. Between 2009 and 2016, the number of unique [owners and operators] participating in the HCV program declined from 775,000 to 695,000.
 -Additional regulatory requirements and inspections for disincentives private housing suppliers.
 
 <!-- Later
