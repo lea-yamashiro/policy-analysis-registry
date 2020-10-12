@@ -122,15 +122,15 @@ https://www.ciel.org/wp-content/uploads/2019/02/CIEL_FUEL-TO-THE-FIRE_How-Geoeng
   - Most large-scale CCS projects use captured carbon
 for *Enhanced Oil Recovery*; proponents of carbon capture and storage estimate that its use for Enhanced Oil Recovery could spur consumption of *40% more coal and up to 923 million additional barrels of oil in the US alone by 2040*, and *most current or anticipated commercial applications of direct air capture are for the production of liquid (transport) fuels or enhanced oil recovery* hence negating and worsening any attempt at mitigating carbon emissions (as it is sometimes advertised).
  - Calculation of cost of Gigatons of Carbon Dioxide in atmosphere SOLELY because of CCUS technology in the United States alone:
-       - According to the EPA's "Greenhouse Gases Equivalencies Calculator":
+   - According to the EPA's "Greenhouse Gases Equivalencies Calculator":
 
-       - 5.80 mmbtu/barrel × 20.31 kg C/mmbtu × 44 kg CO2/12 kg C × 1 metric ton/1,000 kg = 0.43 metric tons CO2/barrel
+   - 5.80 mmbtu/barrel × 20.31 kg C/mmbtu × 44 kg CO2/12 kg C × 1 metric ton/1,000 kg = 0.43 metric tons CO2/barrel
 
-       - "923 million additional barrels of oil" in US alone (CIEL) = 923,000,000 [barrels] x 0.43 [tons of CO2/barrel]
+   - "923 million additional barrels of oil" in US alone (CIEL) = 923,000,000 [barrels] x 0.43 [tons of CO2/barrel]
 
-       = 396890000 (~ 396 million) more tons of C02 emitted by 2040 in the US alone
+   = 396890000 (~ 396 million) more tons of C02 emitted by 2040 in the US alone
 
-       ###### = 0.39689 Gigatons C02 added by 2040 in US alone.  396 million/20 years = approximately 20 million tons of additional C02 added by the United States to the atmosphere per year SOLELY due to the utilization of Carbon-Capture technology for Enhanced Oil Recovery in otherwise depleted oil wells. 
+   ###### = 0.39689 Gigatons C02 added by 2040 in US alone.  396 million/20 years = approximately 20 million tons of additional C02 added by the United States to the atmosphere per year SOLELY due to the utilization of Carbon-Capture technology for Enhanced Oil Recovery in otherwise depleted oil wells. 
 
 
 - Leading proponents of direct air capture explicitly
