@@ -14,6 +14,10 @@ URL with supporting evidence of supporting:
 - https://www.wsj.com/articles/cities-experiment-with-remedy-for-poverty-cash-no-strings-attached-11601371801 (The Stockton Economic Empowerment Demonstration (SEED) began in 2019 to distribute monthly cash grants to randomly selected low-income families)  
 - https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b
 
+#### Follow up
+The main opponents of this policy verify this organization as a key supporter
+
+
 ### Opposing group
 Name: Many economists on both sides of the political spectrum (including Laura Tyson, Robert Greenstein and Martin Feldstein), labor leaders and groups (California Labor Federation, California's Employment Training Panel)
 
@@ -22,6 +26,9 @@ URL with opposing evidence of supporting:
 - https://www.cbpp.org/poverty-and-opportunity/commentary-universal-basic-income-may-sound-attractive-but-if-it-occurred  
 - https://www.project-syndicate.org/commentary/reducing-inequality-in-america-by-martin-feldstein-2016-08?barrier=accesspaylog  
 - https://www.latimes.com/local/california/la-pol-ca-basic-income-stockton-reparations-20190415-story.html
+
+#### Follow up
+The main supporters of this policy verify this organization as a key supporter
 
 ## Policy estimates
 
@@ -44,6 +51,11 @@ The Roosevelt Study considers 3 scenarios of a UBI policy that is fully deficit-
 #### Main Costs
 - One sentence for each cost that is assessed. Indicate main quantitative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
 - 9.33% increase in deficit
+
+
+##### Follow up
+Asks supportes and opponents about these spefic costs and benefits  
+
 
 
 ### Presented by opposing group
