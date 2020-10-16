@@ -15,8 +15,9 @@ URL with supporting evidence of supporting:
 - https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b
 
 #### Follow up
-The main opponents of this policy verify this organization as a key supporter
+(Still waiting for response from opposing group)
 
+Supporting group (UBI Center) did not directly verify these supporters, but suggests the following supporters: Humanity Forward, Income Movement, USBIG, Basic Income Earth Network, Economic Security Project, Jain Family Institute, Citizens' Income Trust (UK), Stanford Basic Income Lab, Universal Income Project, GiveDirectly, OpenResearch, Mayors for a Guaranteed Income.
 
 ### Opposing group
 Name: Many economists on both sides of the political spectrum (including Laura Tyson, Robert Greenstein and Martin Feldstein), labor leaders and groups (California Labor Federation, California's Employment Training Panel)
@@ -28,7 +29,7 @@ URL with opposing evidence of supporting:
 - https://www.latimes.com/local/california/la-pol-ca-basic-income-stockton-reparations-20190415-story.html
 
 #### Follow up
-The main supporters of this policy verify this organization as a key supporter
+Supporting group (UBI Center) did not verify these opposing groups, but suggested candidate opponents that have published critical articles ([The Heritage Foundation](https://www.heritage.org/welfare/report/universal-basic-income-harms-recipients-and-increases-dependence-government), [Center on Budget and Policy Priorities](https://www.cbpp.org/poverty-and-opportunity/commentary-universal-basic-income-may-sound-attractive-but-if-it-occurred)).
 
 ## Policy estimates
 
@@ -54,7 +55,7 @@ The Roosevelt Study considers 3 scenarios of a UBI policy that is fully deficit-
 
 
 ##### Follow up
-Asks supportes and opponents about these spefic costs and benefits  
+Asks supporters and opponents about these specific costs and benefits  
 
 
 
@@ -77,7 +78,7 @@ The Penn-Wharton Budget Model also assumes the UBI policy is deficit-funded.  Fo
 - If plan is implemented in 2018, there is an expected reduction GDP of 6.1% by 2027, and 9.3% by 2032.
 - Increase federal debt by more than 63.5% by 2027 and 81.1% by 2032
 
-## Followups  
+## Followup  
 
 - Contacted supporting group (UBI center) and opposing group (California Labor Federation, Employment Training Panel)
 - Received response from UBI center
