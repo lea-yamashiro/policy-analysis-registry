@@ -1,7 +1,7 @@
 ## Proposition 19 : Home Protection for Seniors, Severely Disabled, Families, and Victims of Wildfire or Natural Disaster Act
 
 
-Proposition 19 would allow for an increase in property tax transfers from one to three moves anywhere in the state for eligible homeowners (55+, disabled, or those affected by a wildfire), reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund.
+Reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund. Seniors (above 55) are excempted from the reassessment. 
 
 
 **Main category**: Economy & Taxes
