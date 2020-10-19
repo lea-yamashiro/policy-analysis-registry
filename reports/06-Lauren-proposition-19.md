@@ -38,7 +38,7 @@ The main supporters of this proposition verify this association as the main oppo
 **URL of report:** https://lao.ca.gov/BallotAnalysis/Proposition?number=19&year=2020
 
 #### Main Benefits
-- Schools and local governments would receive an increase in revenue by 200,000 to 400,000 per year* for the first few years, overtime increasing to about 1 billion dollars per year as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
+- Schools and local governments would receive an increase in revenue by \$200 to \$400 million dollars per year* for the first few years, overtime increasing to about 1 billion dollars per year as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
 - The number of movers could increase by 10,000 to 60,000** increasing property tax revenue due to higher home prices and increased demand for home building.
 
 
