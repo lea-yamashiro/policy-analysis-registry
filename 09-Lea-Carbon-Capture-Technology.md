@@ -48,16 +48,15 @@ Rogelj, J., D. Shindell, K. Jiang, S. Fifita, P. Forster, V. Ginzburg, C. Handa,
 https://www.ipcc.ch/sr15/chapter/chapter-2/
 
 ### Main Benefits
-- Potential to capture and store 2,000 gigatons of carbon dioxide by 2050, worldwide.
+###### - potential for capturing and storing 2,000 gigatons of carbon dioxide by 2050, world-wide.
 
 ### Main Costs
 
-*IPCC report contained no mention of monetary costs (too broad on global scale), but found U.S. Department of Energy (DOE) document*:
-https://www.energy.gov/sites/prod/files/2019/10/f67/Internal%20Revenue%20Code%20Tax%20Fact%20Sheet.pdf
+IPCC had no mention of monetary costs (too broad on global scale), but found D.O.E. document: https://www.energy.gov/sites/prod/files/2019/10/f67/Internal%20Revenue%20Code%20Tax%20Fact%20Sheet.pdf
 
 ##### Overall:
 - Monetary: (for the United States)
- - **45Q tax credit** (for businesses producing C02)
+ - \45Q tax credit\ (for businesses producing C02)
   - $50 per metric ton stored geologically
   - $35 for EOR, EGR, or CO2 utilized in another qualified manner, with the credit increasing annually until the full value is reached in 2026.
 - Not fully-proven technology
@@ -86,7 +85,7 @@ https://www.ciel.org/wp-content/uploads/2019/02/CIEL_FUEL-TO-THE-FIRE_How-Geoeng
 - In the race to mitigate the effects of climate change and keep global warming to the maximum increase of 1.5 degrees Celsius, any technology, such as Carbon-Capture technology that limits or reduces the amount of Carbon Dioxide in earth's atmosphere is helpful; what matters is who is funding it, supporting it, and why.
 
 #### Main Costs
-- Monetary costs not mentioned in report.
+- Specific monetary costs not mentioned.
 - Cost to environment from: Enhanced Oil Recovery (EOR)
   - Most large-scale CCS projects use captured carbon
 for *Enhanced Oil Recovery*;
@@ -95,11 +94,12 @@ for *Enhanced Oil Recovery*;
        - According to the EPA's "Greenhouse Gases Equivalencies Calculator":
        - 5.80 mmbtu/barrel × 20.31 kg C/mmbtu × 44 kg CO2/12 kg C × 1 metric ton/1,000 kg = 0.43 metric tons CO2/barrel
        - "923 million additional barrels of oil" in US (CIEL) = 923,000,000 [barrels] x 0.43 [tons of CO2/barrel]
-       = 396890000 (~ 396 million) more tons of C02 emitted by 2040 in the US alone
-       0.39689 Gigatons C02 added by 2040 in US alone.  396 million/20 years = approximately 20 million tons of additional C02 added by the United States to the atmosphere per year from CCUS for EOR
+        - = 396890000 (~ 396 million) more tons of C02 emitted by 2040 in the US alone
+  - 0.39689 Gigatons C02 added by 2040 in US alone.  396 million/20 years = approximately 20 million tons of additional C02 added by the United States to the atmosphere per year from CCUS for EOR
 - CCS preserves existing energy and transportation systems with high social costs to society.
 - Requirement of abundance of energy for CCS leads to potential environmental externalities
 - Not proven to work on a mass scale
+
 
 
 
