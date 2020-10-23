@@ -1,4 +1,5 @@
-# Instructions for searching and recording policy analyses into the policy analysis registry
+# Strategy 1: Policy Issue First
+ Instructions for searching and recording policy analyses into the policy analysis registry. This first strategy guides you on how to record a policy analysis starting from a policy issue or debate.
 
 
 ## Main Task  (suggested level of effort in hours)
@@ -34,14 +35,15 @@ If you cannot clearly identify two positions, record "Could not indicate 2 posit
 
 Identify the main policy reports cited by each policy group. In the absence of any policy report, identify the main policy estimate cited by each group. A policy estimate is any quantity that is used to support a specific policy position. Note that it is possible for the two main groups to cite the main policy report.
 
-Record any evidence showing that supporters and/or opponents cite this analysis.  Title of the referenced analysis, authoring organization, authors (if any), and URL of the report (if report was obtained via email, posted in this repository and provided link).
+Record any evidence showing that supporters and/or opponents cite this analysis.  Title of the referenced analysis, authoring organization, authors (if any), and URL of the report (if report was obtained via email, posted in this repository and provided link). 
 
 
 ### Step 4: Within each policy analysis: read and identify the main benefits and costs (<5hrs)
 
-Identify and record key benefits and costs from policy analysis.
-
-
+Identify and record key benefits and costs from policy analysis. Look for quantities in well defined units (eg "thousands of households", "millions of dollars (in 2020 dollars)"). If the policy analysis provides a narrative range translate as follows:
+ - "A couple" =  2
+ - "A few" = 3 - 5
+LAUREN, please complete
 
 ### Structure of the collected information
 
@@ -56,6 +58,29 @@ Identify and record key benefits and costs from policy analysis.
     |            | Organization | Analysis 2 | Costs 2    |
     |            |              |            |            |
     +------------+--------------+------------+------------+
+
+
+
+
+### Follow up with main groups
+
+Reach out to the main interest groups that you identified above and ask each the following:
+- In addition to your organizaiton: what are the main organizations supporting and oppossing this policy?  
+- What is the most up to date policy analysis that your organization cites as evidence of the costs and benefits of this policy issue?
+
+If either group provides additional benefits or costs (not available in the policy analysis identified above) follow up requesting the corresponding new reference (Name of the new analysis, authoring organization, URL). 
+
+
+
+### Follow up with authors of policy reports   
+Reach out to the authors (or contact information of policy analysis organization) of the analysis cited above (both for supporters and opponents) and ask the following:   
+ - To your knowledge, what is the most up-to-date policy analysis on this policy isssue?
+ - To your knowledge, what is the policy analysis that is most commonly cited by supporters this policy issue?
+ - To your knowledge, what is the policy analysis that is most commonly cited by opponents of this policy issue?
+
+
+
+
 
 ---
 
@@ -96,4 +121,4 @@ source] in [specific city/state/country]"
 
 - Investigate how to access the main page of NYT and WSJ of previous dates.  
 - Build a qualtrics form where readers can record their reports.   
-- Review this website: https://libguides.gwu.edu/pubpolicydatabases 
+- Review this website: https://libguides.gwu.edu/pubpolicydatabases
