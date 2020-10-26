@@ -1,8 +1,7 @@
 ## Proposition 19 : Home Protection for Seniors, Severely Disabled, Families, and Victims of Wildfire or Natural Disaster Act
 
 
-Proposition 19 would allow for an increase in property tax transfers from one to three moves anywhere in the state for eligible homeowners (55+, disabled, or those affected by a wildfire), reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund.
-
+Reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund. Seniors (above 55) are exempt from the reassessment.
 
 **Main category**: Economy & Taxes
 
@@ -38,26 +37,31 @@ The main supporters of this proposition verify this association as the main oppo
 **URL of report:** https://lao.ca.gov/BallotAnalysis/Proposition?number=19&year=2020
 
 #### Main Benefits
-- Schools and local governments would receive an increase in revenue by 200,000 to 400,000 per year* for the first few years, overtime increasing to about 1 billion dollars per year as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
-- The number of movers could increase by 10,000 to 60,000** increasing property tax revenue due to higher home prices and increased demand for home building.
+- Schools and local governments would receive an increase in revenue by 10 to 70 million dollars per year for the first few years, overtime increasing to about 300 million dollars per year* as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
+
+- The number of movers could increase by 10,000 to 70,000** , as more people can buy and sell without facing increases in property tax, this would increase taxes on the sale of homes, increasing revenue for state and local governments by 10 to 70 million dollars per year.***
 
 
-*assumed from LAO report which mentions "a couple hundred million dollars per year"
+*assumed from LAO report which mentions, "in the first few years, local governments could gain tens of millions of dollars per year" and over time, revenue gains could grow to "a few million dollars per year" and would be spent of fire protection.
 
 ** assumed from LAO report which mentions "tens of thousands of movers"  
+
+*** assumed from LAO report which mentions "tens of millions of dollars per year"
 
 
 *NOTE*: the addition of funding for fire protection was added to the proposition after this report was made.
 
 #### Main Costs
-- Eligible homeowners would pay their previous property tax when moving to a new home (applies to up to three moves) which would decrease property taxes and thus, decrease funding for schools and local governments by 10 to 70 million dollars*** in the first few years and hundreds of millions of dollars in future years.
-- County administration costs for property tax is likely to  increase by 10 to 70 millions dollars per year****.
+- Eligible homeowners would pay their previous property tax when moving (applies to up to three moves) which would decrease property taxes and thus, decrease funding for schools and local governments by 10 to 70 million dollars*** in the first few years and hundreds of millions of dollars in future years.
+
+- County administration costs for property tax is likely to  increase by 10 to 70 millions dollars per year.****
 
 *** assumed from the LAO report which mentions a decrease of tens of millions of dollars in the first few years and hundreds of millions of dollars in future years
 
 **** assumed from the LAO report which mentions "tens of millions of dollars per year"
+
 ##### Follow up
-Yes on Prop 19 followed up with a few more points on the benefits to the wildfire fund in quantifiable data that was not found in the LAO report.
+Yes on Prop 19 and the LAO office confirms this report is the most up to date report. Yes on Prop 19 included highlights not mentioned in the LAO report surrounding fire protection funds.
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:** https://www.hjta.org/california-commentary/explaining-the-confusing-proposition-19-to-californians/
@@ -69,15 +73,16 @@ Yes on Prop 19 followed up with a few more points on the benefits to the wildfir
 **URL of report:** https://lao.ca.gov/BallotAnalysis/Proposition?number=19&year=2020
 
 #### Main Benefits
-- Local governments (including schools) could gain 10 to 70 million dollars per year* with revenue gains up to 300 million dollars per year in future years due to inherited property tax reassessments.**
+- Local governments (including schools) could gain 10 to 70 million dollars per year* with revenue gains up to 300 million dollars per year ** in future years due to inherited property tax reassessments.
 
 *Assumed from the LAO report which states "tens of millions of dollars per year" of revenue during initial years of the tax.
 
-**Assumed from the LAO report which states "few hundred million dollars per year in future years" will be gained from the inherited property tax reassessments.
+** Assumed from the LAO report which states "few hundred million dollars per year in future years" will be gained from the inherited property tax reassessments.
 
 
 #### Main Costs
-- 10 to 80 million families***  face higher tax higher property tax per year resulting in 200 to 800 million dollars in additional taxes.
+- For the 10,000 to 70,000 households who have inherited property, they may face higher property tax per year resulting in 100 to 700 million dollars in additional taxes.***
+
 - 10 to 70 million additional dollars per year**** for counties to pay for staff and computer technology to carry out this proposition.  
 
 *** Assumed from the LAO report which states "tens of thousands of families" face higher property tax and states "hundreds of millions of dollars" of additional taxes as the result of these property tax increases.
@@ -88,11 +93,11 @@ Yes on Prop 19 followed up with a few more points on the benefits to the wildfir
 
 ##### Follow up
 
-The lead analyst at LAO for Proposition 19 noted that they use ranges as " these effects are subject to several uncertainties which prevent us from providing a single point estimate".
+LAO Policy analyst confirms this report is the most current analysis for Proposition 19. The lead analyst at LAO for Proposition 19 noted that they use ranges as "these effects are subject to several uncertainties which prevent us from providing a single point estimate".
 
 ## Followups  
 
-- Contacted supporting group (California Realtors Association and Yes on Prop 19) and opposing group (Howard Jarvis Taxpayers Association)
+- Contacted supporting group (California Realtors Association and Yes on Prop 19) and opposing group (Howard Jarvis Taxpayers Association) as well as lead policy analyst on Proposition 19 from LAO.
 - Received response from HJTA, Yes on Prop 19, LAO lead analyst for Proposition 19
 
 <!-- Later
