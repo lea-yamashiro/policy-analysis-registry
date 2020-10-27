@@ -43,7 +43,11 @@ Record any evidence showing that supporters and/or opponents cite this analysis.
 Identify and record key benefits and costs from policy analysis. Look for quantities in well defined units (eg "thousands of households", "millions of dollars (in 2020 dollars)"). If the policy analysis provides a narrative range translate as follows:
  - "A couple" =  2
  - "A few" = 3 - 5
-LAUREN, please complete
+ - "tens of ..." = 10-70 (thousand, million)
+ - "hundreds of ..." = 100- 700 (thousand, million) 
+ 
+* If the report states a couple hundred million dollars, combine two transalations to assume 200 million dollars. Always note your assumptions below the listed costs and benefits. 
+
 
 ### Structure of the collected information
 
