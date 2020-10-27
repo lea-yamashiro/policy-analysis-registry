@@ -9,7 +9,7 @@ I am contacting you to request information on your organization’s perspective 
 We would like to get your responses to the following questions:
 
 - In addition to your organization, who are the main organizations supporting and opposing `[this policy]`?
-- What is the most up-to-date policy analyses that your organization cites as evidence of the costs and benefits of `[this policy issue]`?
+- What are the most up-to-date policy analyses that your organization cites as evidence of the costs and benefits of `[this policy issue]`?
 
 Thank you in advance for your response and please let me know if you have any questions.
 
